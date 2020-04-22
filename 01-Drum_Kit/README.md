@@ -1,0 +1,3 @@
+event listeners
+queryselectors
+changing CSS
